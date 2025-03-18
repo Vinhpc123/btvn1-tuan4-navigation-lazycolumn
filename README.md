@@ -1,16 +1,3 @@
-# th1
+# BT về navigation và lazycolumnm
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1a7a57e7-6be9-444b-bcbb-5c38b762f249](https://github.com/user-attachments/assets/9d919f5d-e670-49a2-a787-626c7bff6c6f)
