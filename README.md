@@ -1,4 +1,4 @@
-# BT về navigation và lazycolumnm
+# BT về xử lý mạng và call API
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29721a52-ba80-4c04-a3ac-9cdc49d02f93" width="200"/>
